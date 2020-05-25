@@ -1,0 +1,88 @@
+.NewsCardStyle {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    box-shadow: 2px 2px 4px lightgrey;
+    border: 1px solid lightgrey;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+
+.NewsCardImgStyle {
+    padding: 5px;
+    border: 1px solid lightgrey;
+}
+
+.NewsCardTitleStyle {
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+}
+
+.NewsCardDescrpStyle {
+    font-size: medium;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+}
+
+.NewsCardDatepStyle {
+    font-size: medium;
+}
+
+.NewsCardSectStyle {
+    width: fit-content;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 5px;
+    text-transform: uppercase;
+    float: right 
+}
+
+#world {
+    color: white;
+    background-color: #7C4EFF;
+}
+
+#politics {
+    color: white;
+    background-color: #419488;
+}
+
+#business {
+    color: white;
+    background-color: #4696EC;
+}
+
+#technology {
+    color: black;
+    background-color: #CEDC39;
+}
+
+#sports {
+    color: black;
+    background-color: #F6C244;
+}
+
+#guardian {
+    color: white;
+    background-color: #14284A;    
+}
+
+#NYtimes {
+    color: black;
+    background-color: #DDDDDD;   
+}
+
+#defaultSectionStyle {
+    color: white;
+    background-color: grey;
+}

@@ -1,0 +1,81 @@
+.SearchResult {
+    width: 100%;
+    display: flex;
+    grid-gap: 1% 0%;
+    margin: 0 auto;
+}
+
+.SearchResultCardStyle {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 2px 4px lightgrey;
+    border: 1px solid lightgrey;
+    font-family: sans-serif;
+    padding: 0;
+}
+
+.SearchResultCardImgStyle {
+    width: 100%;
+    padding: 3px;
+    border: 1px solid lightgrey;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.SearchResultCardTitleStyle {
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+.SearchResultCardSectStyle {
+    width: fit-content;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    font-size: small;
+    font-weight: bold;
+    border-radius: 5px;
+    text-transform: uppercase;
+    float: right 
+}
+
+#world {
+    color: white;
+    background-color: #7C4EFF;
+}
+
+#politics {
+    color: white;
+    background-color: #419488;
+}
+
+#business {
+    color: white;
+    background-color: #4696EC;
+}
+
+#technology {
+    color: black;
+    background-color: #CEDC39;
+}
+
+#sports {
+    color: black;
+    background-color: #F6C244;
+}
+
+#guardian {
+    color: white;
+    background-color: #14284A;    
+}
+
+#NYtimes {
+    color: black;
+    background-color: #DDDDDD;   
+}
+
+#defaultSectionStyle {
+    color: white;
+    background-color: grey;
+}

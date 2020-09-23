@@ -18,7 +18,7 @@ For each article, after expanding, the user can even add comments on the article
 
 ## System Architecture
 
-![](https://i.imgur.com/DPqys5Q.png)
+![](https://i.imgur.com/QVZDpdj.png)
 
 ## Example Results
 

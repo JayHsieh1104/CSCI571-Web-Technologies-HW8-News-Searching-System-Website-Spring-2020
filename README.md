@@ -22,6 +22,8 @@ For each article, after expanding, the user can even add comments on the article
 
 ## Example Results
 
+[Website Link](https://news-searching-system-frontend.wl.r.appspot.com/#/)
+
 1. Home page
     ![](https://i.imgur.com/RfyL8CU.jpg)
 

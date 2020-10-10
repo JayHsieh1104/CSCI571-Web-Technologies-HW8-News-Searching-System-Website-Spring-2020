@@ -35,4 +35,4 @@ For each article, after expanding, the user can even add comments on the article
 
 ## License
 
-GPL 3.0 © 2020 Bing-Jie Hsieh
+GPL 3.0 © Bing-Jie Hsieh 2020
